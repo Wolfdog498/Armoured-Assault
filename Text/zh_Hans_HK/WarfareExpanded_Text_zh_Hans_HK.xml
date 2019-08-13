@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_NAME" Language="zh_Hans_HK">
+			<Text>裝甲突擊炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代自行火力支援單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_NAME" Language="zh_Hans_HK">
+			<Text>先進加榴炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代機械化遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_NAME" Language="zh_Hans_HK">
+			<Text>坦克殲擊車</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_NAME" Language="zh_Hans_HK">
+			<Text>槍騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代快速移動反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_NAME" Language="zh_Hans_HK">
+			<Text>裝甲偵察車</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代裝甲偵察單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_NAME" Language="zh_Hans_HK">
+			<Text>裝甲突擊車</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代自行直接火力支援單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_TANK_DEST_NAME" Language="zh_Hans_HK">
+			<Text>先進坦克殲擊車</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_TANK_DEST_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代機械化反騎兵單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_HOWITZER_NAME" Language="zh_Hans_HK">
+			<Text>自行加榴炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_HOWITZER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_NAME" Language="zh_Hans_HK">
+			<Text>弓騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>中世紀時代騎兵遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CHARIOT_ARCHER_NAME" Language="zh_Hans_HK">
+			<Text>戰車射手</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CHARIOT_ARCHER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>古典時代騎兵遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARTILLERY_NAME" Language="zh_Hans_HK">
+			<Text>馬後炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARTILLERY_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代騎兵遠程單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_TANK_NAME" Language="zh_Hans_HK">
+			<Text>裝甲偵察車</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_TANK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代裝甲偵察單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_LIGHT_TANK_NAME" Language="zh_Hans_HK">
+			<Text>近代輕型坦克</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_LIGHT_TANK_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>現代裝甲偵察單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_NAME" Language="zh_Hans_HK">
+			<Text>先進突擊炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>信息時代機械化直接火力支援單位。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_AAA_NAME" Language="zh_Hans_HK">
+			<Text>自行高炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>原子能時代防空支援單位。提供來自空中攻擊的掩護，距離武器1hex以外。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

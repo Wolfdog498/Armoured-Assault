@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME" Language="zh_Hans_CN">
+			<Text>防空炮</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>现代防空支援单位，提供来自空中攻击的掩护，距离武器1hex以外。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>信息时代防空支援单位，提供来自空中攻击的掩护，距离武器2hex以外。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

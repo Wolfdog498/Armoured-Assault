@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>突击炮是安装在机动车辆或装甲底盘上的枪或榴弹炮，设计用于在攻击其他步兵或要塞时支援步兵的直接火力作用。这个词是德语单词Sturmgeschutz的直译。纳粹德国在1940年引进了第一种专门制造的突击炮StuG III，从而建立了这类装甲车。历史上，定制的全装甲突击炮通常安装在坦克底盘上完全封闭的炮塔内的火炮或榴弹炮。炮塔代替炮塔的使用限制了这些武器的火力范围，但允许安装相对于底盘更大的炮，安装更多的装甲以适应相同重量，并提供了更便宜的结构。在大多数情况下，这些无炮塔的车辆也表现出较低的姿态作为敌人的目标。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>自行火炮安装在机动轮式或履带底盘上。因此，相对于依靠车辆或其他手段在战场上移动的拖曳式火炮，火炮可以在自己的力量下机动。自行火炮是作战支援武器;他们受雇于战斗支援单位，以支援或附属于主要作战单位:步兵和装甲部队。自行火炮最擅长提供间接火力，但可以在需要时直接开火。它可能是装甲的，在这种情况下它被认为是装甲战斗车辆(AFV)。通常情况下，自行火炮装甲更轻，可能没有炮塔，其用途与坦克不同。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>坦克杀手或坦克歼击车是一种装甲战车，装备直射火炮或导弹发射器，作战能力有限，专为打击敌方装甲车辆而设计。坦克通常是为前线作战设计的装甲战车，结合作战机动性和战术进攻和防御能力，并在战场上执行装甲部队的所有主要任务;另一方面，坦克歼击车是专门设计的主要承担敌人装甲。许多已经基于履带式坦克底盘，而其他一些是轮式的。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>枪骑兵是文艺复兴和工业时代的骑兵。在一个越来越多地使用火炮和其他基于火药的武器的时代，速度和机动性超过了装甲，这对现代射弹武器越来越没用。正因为如此，长矛兵们抛弃了他们骑士前辈们沉重的铠甲，如果这样的话，他们只保留了金属胸甲。即使武器有所改进，长矛在训练有素的骑手手中仍然是一种非常有效的武器。早在拿破仑战争时期，法国人就认为骑枪是比剑更好的骑兵武器。当然，在19世纪，两者都将被步枪取代。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>军用装甲(或装甲)车是一种轻型轮式装甲战斗车辆，历史上用于侦察、内部安全、武装护航和其他次要战场任务。随着骑兵的逐渐减少，人们开始开发装甲车来执行以前的骑兵任务。随着坦克的发明，装甲汽车仍然流行，因为它相对简单的维护和较低的生产成本。它还得到了一些殖民地军队的青睐，作为在欠发达地区使用的廉价武器。在第二次世界大战期间，大多数装甲车被设计成用于侦察和被动观察，而其他车辆则用于通信任务。一些装备了重型武器的车辆甚至可以在有利的条件下替代履带式战斗车辆，比如在北非战役中追击或侧翼机动。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>第一次世界大战后，摩托化步兵(或美国装甲)开始取代骑兵，成为大多数军队的侦察武器，尽管许多军队在第二次世界大战结束后继续维持骑兵。它不同于普通装甲部队，主要的装甲车辆或侦察车，有一些轻型或中型坦克;骑摩托车的部队或步兵在卡车或半履带上集结。装甲骑兵部队可以使用猎杀小队。侦察车辆和坦克可以协同作战，分别适合作为“猎人”和“杀手”。例如,在美国的地面部队,团队的骑兵童子军(通常安装在M3布拉德利骑兵战车)去寻找敌人的位置,并冲到指定区域杀死敌人的装甲部队可以对敌人造成更大的伤害比“猎人”仅能希望。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>章鱼-sd被设计用来击败坦克，硬皮材料和敌人的人力由空降和两栖登陆部队，以及特别指定的地面部队单位。它的主要武器是云杉反坦克炮，能够发射APFSDS、HE-Frag、HEAT和ATGM弹药。这使得2S25和主战坦克一样强大，和空降兵作战车辆一样具有机动和两栖能力。2S25可以被地面部队和海军步兵单位用作轻型两栖坦克。目前，2S25的唯一运营者是俄罗斯空降部队，其中24辆在服役中。大韩民国和印度军方表示有兴趣购买2S25云杉。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在第二次世界大战爆发时，几乎所有的火炮仍在由火炮拖拉机或马匹移动。随着战争的进行，大多数国家发展了自行火炮。所有主要国家都发展了自行火炮，能够提供间接支援，同时与不断前进的装甲部队保持同步。这些车辆通常是轻型装甲车辆，车体为敞开式;美国M7牧师，英国Sexton (25 pdr)和德国Wespe和Hummel是典型的例子。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>弓骑手是一种骑兵，装备弓，能在马背上射击。箭术偶尔也会在其他骑着的动物背上使用。在广阔的空地上，这是一种非常成功的狩猎、保护兽群和战争的技术。这是古代和中世纪时期欧亚游牧民族、伊朗民族(斯基提亚人、萨尔马提亚人、帕提亚人、萨珊波斯人)和古代印度人以及中世纪蒙古人和突厥人的典型特征。随着这些民族的扩张，这种习俗也传到了东欧(通过萨尔马提亚人和匈奴人)、美索不达米亚和东亚。在东亚，马箭在日本的武士传统中得到了特别的尊重，在日本，马箭被称为Yabusame。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在马镫发明之前，几乎不可能在马背上作战。没有办法使自己振作起来，最轻微的一击就能使战士下马，造成灾难性的后果。马第一次出现在战场上拉车。战车队通常由一匹或两匹马、一个车夫和一个弓箭手组成。战车的机动性使它们对步兵尤其危险:它们可以冲进射程内，发射炮弹，然后在裹足不前的士兵接近它们之前逃跑。战车射手队最大的弱点是无法应付困难的地形。在开阔的平原上，他们是古代战场上的国王;在小山或树林中，它们处于显著的劣势。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>马后炮是一种轻型、快速移动和快速射击的火炮，提供高度机动的火力支援，特别是对骑兵部队。从17世纪到20世纪初，欧洲、美洲和一些亚洲国家的军队都有骑兵炮兵。它是现代自行火炮的前身，由轻型加农炮或榴弹炮组成，与轻而结实的两轮车厢(称为沉箱或机脚)相连，车上有骑在马上的个别船员。这与野战炮兵的其他部队形成了鲜明对比。野战炮兵部队的弹药更重，队员们步行前进，或者在某些情况下乘坐枪支或弹药车。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>雷诺FT(在第一次世界大战后的文献中经常被称为FT-17,FT17或类似)是法国轻型坦克，是历史上最具革命性和影响力的坦克设计之一。英国《金融时报》是第一个将武器装备安装在完全旋转炮塔内的生产坦克。雷诺FT的配置——前置乘员舱，后置发动机舱，旋转炮塔内的主要武器——成为并保持了标准的坦克布局。因此，一些研究装甲战争的历史学家称雷诺FT为世界上第一辆现代坦克。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>为英国《金融时报》设计的第一个炮塔是一个圆形的铸钢版本，几乎与原型机相同。它被设计为携带一个霍奇基斯8毫米机关枪。1917年4月，埃斯蒂安出于战术原因决定，一些车辆应该能够携带小型火炮。选择了37毫米的Puteaux火炮，并试图制造一个能够容纳它的铸钢炮塔，但没有成功。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>M1128移动式火炮系统是Stryker装甲战斗车辆系列的八轮装甲车，安装了105毫米坦克炮，基于通用动力地面系统公司生产的加拿大轻型装甲车LAVIII。它在美国[3]服务，也被其他几个国家考虑采用。MGS的低轮廓炮塔有一个小轮廓，是稳定和安装105mm，M68A2膛线炮与自动装弹机。车辆主要装备支持步兵作战行动。虽然它可以扮演一些坦克的角色，但它并不是用来与坦克作战的。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>装甲侦察车是一种最初设计用于快速移动的坦克改型，现在主要用于侦察任务，或在无法提供主战坦克的情况下支援远征军。早期的轻型坦克一般装备和装甲类似于装甲车，但使用履带以提供更好的越野机动性。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>快速轻型坦克是第二次世界大战前集结的一个主要特点，在那里，人们预计它们将被用来突破由速度较慢、重量较重的坦克制造的敌人防线。在这一时期，许多小型坦克设计和“坦克”被开发出来，并以各种各样的名字为人所知，包括“战斗车”。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>轻型坦克一直是为数不多的在主战坦克发展中幸存下来的坦克改型之一，并且已经被用于各种任务，包括支持轻型空降或两栖部队和侦察。改良的ifv在许多军队中都扮演着这样的角色，因为它们的即时可用性，以及作为开发和部署纯轻型坦克的廉价替代品。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>防空车辆，也称为自航高射炮(SPAAG)或自航防空系统(SPAD)，是一种具有专用防空能力的机动车辆。俄罗斯版的SPAAG是ZSU，意思是“防空自航登高”。特定的武器系统包括机枪、自动加农炮、大型火炮或导弹，以及一些同时安装火炮和较远程导弹(如pantsirl - s1)。使用的平台包括卡车和更重的战斗车辆，如装甲运兵车和坦克，它们为前线部署增加了对飞机、火炮和小型武器火力的保护。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+	</LocalizedText>
+</GameData>

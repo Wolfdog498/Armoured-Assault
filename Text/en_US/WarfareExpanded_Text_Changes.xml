@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME">
+			<Text>Anti-aircraft Artillery</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+			<Text>Modern era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+			<Text>Information era anti-air support unit. Provides cover from air and nuclear attacks up to 2 hex away from the weapon.</Text>
+		</Replace>
+	</BaseGameText>
+</GameData>

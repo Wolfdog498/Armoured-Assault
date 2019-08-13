@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_UNIT_ASSAULT_GUN_NAME">
+			<Text>Assault Gun</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ASSAULT_GUN_DESCRIPTION">
+			<Text>Atomic era mobile direct fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_GUN_NAME">
+			<Text>Self-Propeled Artillery</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_GUN_DESCRIPTION">
+			<Text>Information era mechanized ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_DESTROYER_NAME">
+			<Text>Tank Destroyer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_DESTROYER_DESCRIPTION">
+			<Text>Atomic era mechanized unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANCER_NAME">
+			<Text>Lancer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANCER_DESCRIPTION">
+			<Text>Fast-moving Industrial era anti cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAVALRY_NAME">
+			<Text>Armored Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAVALRY_DESCRIPTION">
+			<Text>Information era armored recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAR_NAME">
+			<Text>Armored Car</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAR_DESCRIPTION">
+			<Text>Modern era mobile driect fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_TANK_DEST_NAME">
+			<Text>Modern Tank Destroyer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_TANK_DEST_DESCRIPTION">
+			<Text>Information era mechanized unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_HOWITZER_NAME">
+			<Text>Self-propelled Howitzer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_HOWITZER_DESCRIPTION">
+			<Text>Atomic era mechanized ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARCHER_NAME">
+			<Text>Horse Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION">
+			<Text>Medieval era mounted ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHARIOT_ARCHER_NAME">
+			<Text>Chariot Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHARIOT_ARCHER_DESCRIPTION">
+			<Text>Ancient era mounted ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARTILLERY_NAME">
+			<Text>Horse Artillery</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARTILLERY_DESCRIPTION">
+			<Text>Industrial era mounted ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_TANK_NAME">
+			<Text>Light Tank</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_TANK_DESCRIPTION">
+			<Text>Atomic era armored recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EARLY_LIGHT_TANK_NAME">
+			<Text>Early Light Tank</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EARLY_LIGHT_TANK_DESCRIPTION">
+			<Text>Modern era armored recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_NAME">
+			<Text>Mobile Gun System</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_DESCRIPTION">
+			<Text>Atomic era mobile direct fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_AAA_NAME">
+			<Text>Self-propelled AAA</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION">
+			<Text>Atomic era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
