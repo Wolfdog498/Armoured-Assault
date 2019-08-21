@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- WE_Armored_Assault_Text_ko_KR -->
+<!-- Author: Wolfy -->
+<!-- DateCreated: 3/1/2019 9:21:42 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- New Units Text -->
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_NAME" Language="ko_KR">
+			<Text>장갑차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 차량화된 화력지원 유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_NAME" Language="ko_KR">
+			<Text>현대 자주포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 차량화된 원거리 유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_NAME" Language="ko_KR">
+			<Text>구축전차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 차량화된 대기병유닛으로 전차 및 차량에 탑승한 유닛에게 효과적입니다.(대기병유닛인 동시에 대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_NAME" Language="ko_KR">
+			<Text>창기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 말에 탑승한 대기병유닛으로 전차, 차량, 말에 탑승한 유닛에게 효과적입니다.(대기병유닛인 동시에 대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_NAME" Language="ko_KR">
+			<Text>현대 경전차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 차량화된 정찰유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_NAME" Language="ko_KR">
+			<Text>초기 장갑차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 차량화된 화력지원 유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_TANK_DEST_NAME" Language="ko_KR">
+			<Text>현대 구축전차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_TANK_DEST_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 차량화된 대기병유닛으로 전차 및 차량에 탑승한 유닛에게 효과적입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_HOWITZER_NAME" Language="ko_KR">
+			<Text>자주포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_HOWITZER_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 차량화된 원거리유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_NAME" Language="ko_KR">
+			<Text>궁기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION" Language="ko_KR">
+			<Text>고전시대의 말에 탑승한 원거리유닛입니다.(원거리계통으로 표시되지만 대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CHARIOT_ARCHER_NAME" Language="ko_KR">
+			<Text>전차 궁수</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CHARIOT_ARCHER_DESCRIPTION" Language="ko_KR">
+			<Text>고대시대의 전차에 탑승한 원거리유닛입니다.(원거리계통으로 표시되지만 대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARTILLERY_NAME" Language="ko_KR">
+			<Text>기마 포병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARTILLERY_DESCRIPTION" Language="ko_KR">
+			<Text>산업시대의 말에 탑승한 원거리유닛입니다.(원거리계통으로 표시되지만 대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_TANK_NAME" Language="ko_KR">
+			<Text>경전차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_TANK_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 차량화된 정찰유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_LIGHT_TANK_NAME" Language="ko_KR">
+			<Text>초기 경전차</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_LIGHT_TANK_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 차량화된 화력지원 유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_NAME" Language="ko_KR">
+			<Text>모바일 건 시스템</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 차량화된 화력지원 유닛입니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_AAA_NAME" Language="ko_KR">
+			<Text>자주대공포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION" Language="ko_KR">
+			<Text>원자시대의 차량화된 지대공유닛입니다. 1타일 범위까지 공중 공격에 대한 방어를 제공합니다.(대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_CROSSBOW_NAME" Language="ko_KR">
+			<Text>중장궁기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOUNTED_CROSSBOW_DESCRIPTION" Language="ko_KR">
+			<Text>중세시대의 말에 탑승한 원거리유닛입니다.(원거리계통으로 표시되지만 대기병유닛에게 추가피해를 받습니다.)</Text>
+		</Replace>
+		<!-- Text Changes -->
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME" Language="ko_KR">
+			<Text>대공포</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION" Language="ko_KR">
+			<Text>현대시대의 지대공유닛으로, 1타일 범위까지 공중 공격에 대한 방어를 제공합니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION" Language="ko_KR">
+			<Text>정보시대의 지대공유닛으로, 2타일 범위까지 공중 및 핵 공격에 대한 방어를 제공합니다.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
