@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- New Units Text -->
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_NAME" Language="de_DE">
+			<Text>Sturmgeschütz</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ASSAULT_GUN_DESCRIPTION" Language="de_DE">
+			<Text>Mobile direkte Feuerunterstützung des Atomzeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_NAME" Language="de_DE">
+			<Text>Selbstfahrlafette</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_GUN_DESCRIPTION" Language="de_DE">
+			<Text>Mechanisierte Fernkampfeinheit des Informationszeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_NAME" Language="de_DE">
+			<Text>Jagdpanzer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TANK_DESTROYER_DESCRIPTION" Language="de_DE">
+			<Text>Mechanisierte Kavallerie-Abwehr Einheit des Atomzeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_NAME" Language="de_DE">
+			<Text>Lanzierer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LANCER_DESCRIPTION" Language="de_DE">
+			<Text>Schnelle Kavallerie-Abwehr Einheit des Industriezeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_NAME" Language="de_DE">
+			<Text>Panzerspähwagen</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAVALRY_DESCRIPTION" Language="de_DE">
+			<Text>Gepanzerte Aufklärungseinheit des Informationszeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_NAME" Language="de_DE">
+			<Text>Panzerfahrzeug</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_CAR_DESCRIPTION" Language="de_DE">
+			<Text>Mobile direkte Feuerunterstützung der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_TANK_DEST_NAME" Language="de_DE">
+			<Text>Raketenjagdpanzer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MODERN_TANK_DEST_DESCRIPTION" Language="de_DE">
+			<Text>Mechanisierte Kavallerie-Abwehr des Informationszeitalters .</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_HOWITZER_NAME" Language="de_DE">
+			<Text>Panzerhaubitze</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SP_HOWITZER_DESCRIPTION" Language="de_DE">
+			<Text>Mechanisierte Fernkampfeinheit des Atomzeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_NAME" Language="de_DE">
+			<Text>Berittener Bogenschütze</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION" Language="de_DE">
+			<Text>Berittene Fernkampfeinheit des Mittelalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CHARIOT_ARCHER_NAME" Language="de_DE">
+			<Text>Bogenschützen Streitwagen</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CHARIOT_ARCHER_DESCRIPTION" Language="de_DE">
+			<Text>Berittene Fernkampfeinheit der Antike.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARTILLERY_NAME" Language="de_DE">
+			<Text> Berittene Artillerie</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARTILLERY_DESCRIPTION" Language="de_DE">
+			<Text>Berittene Fernkampfeinheit des Industriezeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_TANK_NAME" Language="de_DE">
+			<Text>Spähpanzer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LIGHT_TANK_DESCRIPTION" Language="de_DE">
+			<Text>Gepanzerte Aufklärungseinheit des Atomzeitalters .</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_LIGHT_TANK_NAME" Language="de_DE">
+			<Text>Spähwagen</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EARLY_LIGHT_TANK_DESCRIPTION" Language="de_DE">
+			<Text>Gepanzerte Aufklärungseinheit der Moderne.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_NAME" Language="de_DE">
+			<Text>Begleitpanzer</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_DESCRIPTION" Language="de_DE">
+			<Text>Mobile direkte Feuerunterstützung des Atomzeitalters.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_AAA_NAME" Language="de_DE">
+			<Text>Selbstfahrende Flugabwehrkanone</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION" Language="de_DE">
+			<Text>Luftabwehr-Unterstützungseinheit des Atomzeitalters. Bietet aus einer Entfernung bis zu 1 Geländefeld von der Waffe Deckung vor Luftangriffen.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
