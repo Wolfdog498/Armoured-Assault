@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- New Units Pedia Text -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_1">
+			<Text>An assault gun is a gun or howitzer mounted on a motor vehicle or armoured chassis, designed for use in the direct fire role in support of infantry when attacking other infantry or fortified positions. The term is a literal translation of the German word Sturmgeschütz. Nazi Germany introduced the first purpose-built assault gun, the StuG III, in 1940, thus establishing this category of armoured vehicles. Historically, the custom-built fully armoured assault guns usually mounted the gun or howitzer in a fully enclosed casemate on a tank chassis. The use of a casemate instead of a turret limited these weapons' field of fire, but allowed a larger gun to be fitted relative to the chassis, more armour to be fitted for the same weight, and provided a cheaper construction. In most cases, these turretless vehicles also presented a lower profile as a target for the enemy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ASSAULT_GUN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_1">
+			<Text>Self-propelled guns are mounted on a motorised wheeled or tracked chassis. As such the gun can be maneuvered under its own power as opposed to a towed gun that relies upon a vehicle or other means to be moved on the battlefield. Self-propelled guns are combat support weapons; they are employed by combat support units fighting in support of, or attached to, the main combat units: infantry and armour. Self-propelled guns are best at providing indirect fire but can give direct fire when needed. It may be armoured, in which case it is considered an armoured fighting vehicle (AFV). Typically, self-propelled guns are more lightly armoured and may not have turrets and their purpose is distinct from that of tanks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_GUN_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_1">
+			<Text>A tank destroyer or tank hunter is a type of armoured fighting vehicle, armed with a direct-fire artillery gun or missile launcher, with limited operational capacities and designed specifically to engage enemy armoured vehicles. Tanks are generally armoured fighting vehicles designed for front-line combat which combine operational mobility and tactical offensive and defensive capabilities and perform all primary tasks of the armoured troops on the battlefield; the tank destroyer on the other hand is specifically designed mainly for taking on enemy armour. Many have been based on a tracked tank chassis, while others are wheeled.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TANK_DESTROYER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_1">
+			<Text>Lancers were the cavalrymen of the Renaissance and Industrial era. In an era of the increasing use of cannon and other gunpowder-based weaponry speed and maneuverability trumped armor, which was increasingly useless against the modern projectile weapons. Because of this, Lancers abandoned much of the heavy plate mail of their knightly predecessors, retaining only the metal breastplate, if that. Even as weaponry improved, the lance remained a terrifyingly effective weapon in the hands of trained horsemen. As late as the Napoleonic Wars, the French believed that the lance was a superior cavalry weapon to the sword. In the 19th century both would be supplanted by the rifle, of course.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LANCER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_1">
+			<Text>A military armored (or armoured) car is a lightweight wheeled armored fighting vehicle, historically employed for reconnaissance, internal security, armed escort, and other subordinate battlefield tasks. With the gradual decline of mounted cavalry, armored cars were developed for carrying out duties formerly assigned to horsemen. Following the invention of the tank, the armored car remained popular due to its comparatively simplified maintenance and low production cost. It also found favor with several colonial armies as a cheaper weapon for use in underdeveloped regions. During World War II, most armored cars were engineered for reconnaissance and passive observation, while others were devoted to communications tasks. Some equipped with heavier armament could even substitute for tracked combat vehicles in favorable conditions—such as pursuit or flanking maneuvers during the North African Campaign.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAR_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Armoured cavalry (or U.S. armored) began to replace horse cavalry as the reconnaissance arm in most armies after the First World War, although many armies continued to maintain horse cavalry through the end of the Second World War. It differed from regular armour units in that the main AFVs were armoured cars or scout cars, with some light or medium tanks; motorcycle troops or infantry in trucks or half-tracks rounded out the unit. Armoured cavalry units can use hunter-killer teams. Scout vehicles and tanks can operate in concert, suited respectively as "hunters" and "killers". For instance, in U.S. land forces, the cavalry scouts of a team (often mounted in M3 Bradley Cavalry Fighting Vehicles) go in search of enemy positions, and flush the enemy into a designated kill zone where the armored units can inflict more damage on the enemy than the "hunters" alone could hope to.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARMORED_CAVALRY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_1">
+			<Text>The Sprut-SD is designed to defeat tanks, hard-skinned material and enemy manpower by airborne and amphibious landing forces, as well as by specially designated units of ground forces. Its main armament, the Sprut anti-tank gun, is capable of firing APFSDS, HE-Frag, HEAT and ATGM ammunition. This allows the 2S25 to be as powerful as a main battle tank and as maneuverable and amphibious as airborne infantry combat vehicles. The 2S25 can be used by units of ground forces and naval infantry as a light amphibious tank. Currently, the only operators of the 2S25 are the Russian airborne troops with 24 of these vehicles in service. The Republic of Korea and the Indian military have expressed interest in acquiring the 2S25 Sprut-SD.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODERN_TANK_DEST_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_1">
+			<Text>At the outbreak of World War II, virtually all artillery was still being moved around by artillery tractors or horses. As the war progressed, most nations developed self-propelled artillery. All major nations developed self-propelled artillery that would be able to provide indirect support while keeping pace with advancing armoured formations. These were usually lightly armoured vehicles with an open-topped hull; the US M7 Priest, British Sexton (25 pdr) and German Wespe and Hummel being typical examples.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SP_HOWITZER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_1">
+			<Text>A horse archer is a cavalryman armed with a bow, able to shoot while riding from horseback. Archery has occasionally been used from the backs of other riding animals. In large open areas, it was a highly successful technique for hunting, for protecting the herds, and for war. It was a defining characteristic of the Eurasian nomads during antiquity and the medieval period, as well as the Iranian peoples, (Scythians, Sarmatians, Parthians, Sassanid Persians) and Indians in antiquity, and by the Mongols and the Turkic peoples during the Middle Ages. By the expansion of these peoples, the practice also spread to Eastern Europe (via the Sarmatians and the Huns), Mesopotamia, and East Asia. In East Asia, horse archery came to be particularly honored in the samurai tradition of Japan, where horse archery is called Yabusame.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_1">
+			<Text>Before the invention of the stirrup, it was virtually impossible to fight from horseback. There was no way to brace oneself, and the slightest push could unhorse the warrior, with disastrous results. Horses first appeared on the battlefield pulling chariots. A chariot team usually consisted of one or two horses, a driver, and an archer. The chariots' mobility made them especially dangerous to infantry: they could rush within range, fire off a volley, then escape before the foot-bound soldiers could close with them. The greatest weakness of a chariot archer team was its inability to deal with difficult terrain. On open plains they were the kings of the ancient battlefield; in hills or woods they were at a significant disadvantage.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CHARIOT_ARCHER_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Horse artillery was a type of light, fast-moving, and fast-firing artillery which provided highly mobile fire support, especially to cavalry units. Horse artillery units existed in armies in Europe, the Americas, and some Asian countries, from the 17th to the early 20th century. A precursor of modern self-propelled artillery, it consisted of light cannons or howitzers attached to light but sturdy two-wheeled carriages called caissons or limbers, with the individual crewmen riding on horses. This was in contrast to the rest of the field artillery, in which the pieces were heavier and the crew marched on foot, or in some cases rode on the guns or caissons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARTILLERY_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_1">
+			<Text>The Renault FT (frequently referred to in post-World War I literature as the FT-17, FT17, or similar) was a French light tank that was among the most revolutionary and influential tank designs in history. The FT was the first production tank to have its armament within a fully rotating turret. The Renault FT's configuration – crew compartment at the front, engine compartment at the back, and main armament in a revolving turret – became and remains the standard tank layout. As such, some historians of armoured warfare have called the Renault FT the world's first modern tank.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_2">
+			<Text>The first turret designed for the FT was a circular, cast steel version almost identical to that of the prototype. It was designed to carry a Hotchkiss 8mm machine gun. In April 1917 Estienne decided for tactical reasons that some vehicles should be capable of carrying a small cannon. The 37mm Puteaux gun was chosen, and attempts were made to produce a cast steel turret capable of accommodating it, but they were unsuccessful.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EARLY_LIGHT_TANK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_1">
+			<Text>he M1128 Mobile Gun System is an eight-wheeled armored car of the Stryker armored fighting vehicle family, mounting a 105 mm tank gun, based on the Canadian LAV III light-armored vehicle manufactured by General Dynamics Land Systems. It is in service with the United States[3] and was also being considered for adoption by several other countries. The MGS' low profile turret has a small silhouette, is stabilized and mounts a 105mm M68A2 rifled cannon with an autoloader. The vehicle is primarily outfitted to support infantry combat operations. While it could take on some of the roles of tanks, it is not designed to engage in combat with tanks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_GUN_SYSTEM_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_1">
+			<Text>A light tank is a tank variant initially designed for rapid movement, and now primarily employed in the reconnaissance role, or in support of expeditionary forces where main battle tanks cannot be made available. Early light tanks were generally armed and armored similar to an armored car, but used tracks in order to provide better cross-country mobility.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_2">
+			<Text>The fast light tank was a major feature of the pre-World War II buildup, where it was expected they would be used to exploit breakthroughs in enemy lines created by slower, heavier tanks. Numerous small tank designs and "tankettes" were developed during this period and known under a variety of names, including the "combat car".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_3">
+			<Text>The light tank has been one of the few tank variants to survive the development of the main battle tank, and has seen use in a variety of roles including the support of light airborne or amphibious forces and reconnaissance. Modified IFVs are assuming these roles in many militaries due to their immediate availability, and as a cheaper alternative to developing and fielding a pure light tank.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LIGHT_TANK_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_1">
+			<Text>An anti-aircraft vehicle, also known as a self-propelled anti-aircraft gun (SPAAG) or self-propelled air defense system (SPAD), is a mobile vehicle with a dedicated anti-aircraft capability. The Russian equivalent of SPAAG is ZSU, for zenitnaya samokhodnaya ustanovka, ("anti-aircraft self-propelled mount"). Specific weapon systems used include machine guns, autocannons, larger guns, or missiles, and some mount both guns and longer-ranged missiles (e.g. the Pantsir-S1). Platforms used include both trucks and heavier combat vehicles such as APCs and tanks, which add protection from aircraft, artillery, and small arms fire for front line deployment.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_1">
+			<Text>A horse archer is a cavalryman armed with a bow, able to shoot while riding from horseback. Archery has occasionally been used from the backs of other riding animals. In large open areas, it was a highly successful technique for hunting, for protecting the herds, and for war. It was a defining characteristic of the Eurasian nomads during antiquity and the medieval period, as well as the Iranian peoples, (Scythians, Sarmatians, Parthians, Sassanid Persians) and Indians in antiquity, and by the Mongols and the Turkic peoples during the Middle Ages. By the expansion of these peoples, the practice also spread to Eastern Europe (via the Sarmatians and the Huns), Mesopotamia, and East Asia. In East Asia, horse archery came to be particularly honored in the samurai tradition of Japan, where horse archery is called Yabusame.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<!-- New Units Text -->
+		<Row Tag="LOC_UNIT_ASSAULT_GUN_NAME">
+			<Text>Assault Gun</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ASSAULT_GUN_DESCRIPTION">
+			<Text>Atomic era mobile direct fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_GUN_NAME">
+			<Text>Self-Propeled Artillery</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_GUN_DESCRIPTION">
+			<Text>Information era mechanized ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_DESTROYER_NAME">
+			<Text>Tank Destroyer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_DESTROYER_DESCRIPTION">
+			<Text>Atomic era mechanized unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANCER_NAME">
+			<Text>Lancer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LANCER_DESCRIPTION">
+			<Text>Fast-moving Industrial era anti cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAVALRY_NAME">
+			<Text>Armored Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAVALRY_DESCRIPTION">
+			<Text>Information era armored recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAR_NAME">
+			<Text>Armored Car</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARMORED_CAR_DESCRIPTION">
+			<Text>Modern era mobile driect fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_TANK_DEST_NAME">
+			<Text>Modern Tank Destroyer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_TANK_DEST_DESCRIPTION">
+			<Text>Information era mechanized unit that's effective against mounted units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_HOWITZER_NAME">
+			<Text>Self-propelled Howitzer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SP_HOWITZER_DESCRIPTION">
+			<Text>Atomic era mechanized ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARCHER_NAME">
+			<Text>Horse Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION">
+			<Text>Clasical era mounted ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHARIOT_ARCHER_NAME">
+			<Text>Chariot Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHARIOT_ARCHER_DESCRIPTION">
+			<Text>Ancient era mounted ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARTILLERY_NAME">
+			<Text>Horse Artillery</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARTILLERY_DESCRIPTION">
+			<Text>Industrial era mounted ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_TANK_NAME">
+			<Text>Light Tank</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIGHT_TANK_DESCRIPTION">
+			<Text>Atomic era armored recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EARLY_LIGHT_TANK_NAME">
+			<Text>Early Light Tank</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EARLY_LIGHT_TANK_DESCRIPTION">
+			<Text>Modern era armored recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_NAME">
+			<Text>Mobile Gun System</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_GUN_SYSTEM_DESCRIPTION">
+			<Text>Atomic era mobile direct fire support unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_AAA_NAME">
+			<Text>Self-propelled AAA</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION">
+			<Text>Atomic era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOUNTED_CROSSBOW_NAME">
+			<Text>Mounted Crossbowman</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOUNTED_CROSSBOW_DESCRIPTION">
+			<Text>Medieval era mounted ranged unit.</Text>
+		</Row>
+		<!-- Text Changes -->
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME">
+			<Text>Anti-aircraft Artillery</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+			<Text>Modern era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+			<Text>Information era anti-air support unit. Provides cover from air and nuclear attacks up to 2 hex away from the weapon.</Text>
+		</Replace>
+	</BaseGameText>
+</GameData>
