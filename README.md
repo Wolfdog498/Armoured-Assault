@@ -1,1 +1,1 @@
-# Armoured Assault for Warfare Expanded Complete
+# Armoured Assault for Warfare Expanded Complete Edition
