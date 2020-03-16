@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Mod id="871158cc-d3e7-442f-9d3d-e1a286ebca41" version="8">
   <Properties>
     <Name>Warfare Expanded Armored Assault</Name>
@@ -9,7 +9,7 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </Properties>
   <Dependencies>
-    <Mod id="d5fd68b9-7c98-4764-91f6-5c6de9fa7f08" title="Warfare Expanded Complete" />
+    <Mod id="38a49494-5ec4-46ac-b01b-9629d96950f3" title="Warfare Expanded" />
   </Dependencies>
   <InGameActions>
     <UpdateDatabase id="Gameplay">
