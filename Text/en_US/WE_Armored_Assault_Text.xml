@@ -231,7 +231,7 @@
 			<Text>A horse archer is a cavalryman armed with a bow, able to shoot while riding from horseback. Archery has occasionally been used from the backs of other riding animals. In large open areas, it was a highly successful technique for hunting, for protecting the herds, and for war. It was a defining characteristic of the Eurasian nomads during antiquity and the medieval period, as well as the Iranian peoples, (Scythians, Sarmatians, Parthians, Sassanid Persians) and Indians in antiquity, and by the Mongols and the Turkic peoples during the Middle Ages. By the expansion of these peoples, the practice also spread to Eastern Europe (via the Sarmatians and the Huns), Mesopotamia, and East Asia. In East Asia, horse archery came to be particularly honored in the samurai tradition of Japan, where horse archery is called Yabusame.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_2">
-			<Text />
+			<Text>All cavalry archers are designed for guerilla warfare due to their supreme agility and can outrun most attacks dealt by enemy units. As a result, they excel at hit and run attacks and can repeat the process until the enemy is eliminated.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -334,7 +334,7 @@
 			<Text>Atomic era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOUNTED_CROSSBOW_NAME">
-			<Text>Mounted Crossbowman</Text>
+			<Text>Heavy Horse Archer</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MOUNTED_CROSSBOW_DESCRIPTION">
 			<Text>Medieval era mounted ranged unit.</Text>
