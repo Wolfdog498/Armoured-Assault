@@ -101,6 +101,12 @@
 		<Replace Tag="LOC_UNIT_MOUNTED_CROSSBOW_DESCRIPTION" Language="ko_KR">
 			<Text>중세시대의 말에 탑승한 원거리유닛입니다.(원거리계통으로 표시되지만 대기병유닛에게 추가피해를 받습니다.)</Text>
 		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="ko_KR">
+			<Text>용기병</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="ko_KR">
+			<Text>르네상스 시대의 경기병 유닛입니다.</Text>
+		</Replace>
 		<!-- Text Changes -->
 		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME" Language="ko_KR">
 			<Text>대공포</Text>
