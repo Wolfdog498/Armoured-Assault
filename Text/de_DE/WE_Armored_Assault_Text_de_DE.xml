@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
 		<!-- New Units Text -->
@@ -91,6 +91,12 @@
 		</Replace>
 		<Replace Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION" Language="de_DE">
 			<Text>Luftabwehr-Unterstützungseinheit des Atomzeitalters. Bietet aus einer Entfernung bis zu 1 Geländefeld von der Waffe Deckung vor Luftangriffen.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="de_DE">
+			<Text>Arkebusierreiter</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="de_DE">
+			<Text>Schnelle leichte Kavallerieeinheit der Renaissance.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
