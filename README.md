@@ -1,1 +1,1 @@
-#  for Warfare Expanded: Armoured Assault
+#  Warfare Expanded: Armoured Assault
