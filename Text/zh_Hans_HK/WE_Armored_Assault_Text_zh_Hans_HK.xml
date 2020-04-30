@@ -227,6 +227,21 @@
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
 			<Text />
 		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_HK">
+			<Text>火繩槍輕騎兵是17世紀早期和中期西歐發現的最常見的騎兵形式。早期的火繩槍騎兵的特點是使用壹種叫做“豎琴”的卡賓槍。根據約翰·克魯索(John Cruso)1632年在他的《騎兵手冊》中所說，“豎琴最早發明于法國”。這種類型的騎兵的特點是使用壹種形式的卡賓槍，最早使用的卡賓槍被稱爲“火槍”(這個詞來源于較重的步兵武器“火槍”)。在16世紀晚期到下個世紀的頭幾十年裏，火繩槍輕騎兵和卡賓槍輕騎兵壹樣被設想爲支持更重的裝甲騎兵、半長矛騎兵或配備手槍的鐵騎軍和騎兵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_HK">
+			<Text />
+		</Replace>
 		<!-- New Units Text -->
 		<Replace Tag="LOC_UNIT_ASSAULT_GUN_NAME" Language="zh_Hans_HK">
 			<Text>裝甲突擊炮</Text>
@@ -317,6 +332,12 @@
 		</Replace>
 		<Replace Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION" Language="zh_Hans_HK">
 			<Text>原子能時代防空支援單位。提供來自空中攻擊的掩護，距離武器1hex以外。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="zh_Hans_HK">
+			<Text>火繩槍騎兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>快速移動的文藝複興時代輕騎兵單位。</Text>
 		</Replace>
 		<!-- Text Changes -->
 		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME" Language="zh_Hans_HK">
