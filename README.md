@@ -1,1 +1,1 @@
-# Armoured Assault for Warfare Expanded Complete Edition
+#  for Warfare Expanded: Armoured Assault
