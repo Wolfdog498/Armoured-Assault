@@ -227,6 +227,21 @@
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOBILE_AAA_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
 			<Text />
 		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>火绳枪轻骑兵是17世纪早期和中期西欧发现的最常见的骑兵形式。早期的火绳枪骑兵的特点是使用一种叫做“竖琴”的卡宾枪。根据约翰·克鲁索(John Cruso)1632年在他的《骑兵手册》中所说，“竖琴最早发明于法国”。这种类型的骑兵的特点是使用一种形式的卡宾枪，最早使用的卡宾枪被称为“火枪”(这个词来源于较重的步兵武器“火枪”)。在16世纪晚期到下个世纪的头几十年里，火绳枪轻骑兵和卡宾枪轻骑兵一样被设想为支持更重的装甲骑兵、半长矛骑兵或配备手枪的铁骑军和骑兵。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text />
+		</Replace>
 		<!-- New Units Text -->
 		<Replace Tag="LOC_UNIT_ASSAULT_GUN_NAME" Language="zh_Hans_CN">
 			<Text>装甲突击炮</Text>
@@ -317,6 +332,12 @@
 		</Replace>
 		<Replace Tag="LOC_UNIT_MOBILE_AAA_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>原子能时代防空支援单位。提供来自空中攻击的掩护，距离武器1hex以外。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_NAME" Language="zh_Hans_CN">
+			<Text>火绳枪骑兵</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>快速移动的文艺复兴时代轻骑兵单位。</Text>
 		</Replace>
 		<!-- Text Changes -->
 		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME" Language="zh_Hans_CN">
