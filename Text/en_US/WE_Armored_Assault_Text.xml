@@ -231,7 +231,7 @@
 			<Text>A horse archer is a cavalryman armed with a bow, able to shoot while riding from horseback. Archery has occasionally been used from the backs of other riding animals. In large open areas, it was a highly successful technique for hunting, for protecting the herds, and for war. It was a defining characteristic of the Eurasian nomads during antiquity and the medieval period, as well as the Iranian peoples, (Scythians, Sarmatians, Parthians, Sassanid Persians) and Indians in antiquity, and by the Mongols and the Turkic peoples during the Middle Ages. By the expansion of these peoples, the practice also spread to Eastern Europe (via the Sarmatians and the Huns), Mesopotamia, and East Asia. In East Asia, horse archery came to be particularly honored in the samurai tradition of Japan, where horse archery is called Yabusame.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_2">
-			<Text>All cavalry archers are designed for guerilla warfare due to their supreme agility and can outrun most attacks dealt by enemy units. As a result, they excel at hit and run attacks and can repeat the process until the enemy is eliminated.</Text>
+			<Text />
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_3">
 			<Text />
@@ -240,6 +240,21 @@
 			<Text />
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOUNTED_CROSSBOW_CHAPTER_HISTORY_PARA_5">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_1">
+			<Text>The harquebusier was the most common form of cavalry found throughout Western Europe during the early and mid 17th century. Early harquebusiers were characterised by the use of a form of carbine, called a "harquebus". According to John Cruso in his cavalry manual of 1632, the harquebusier was "first invented in France". This type of cavalryman was characterised by the use of a form of carbine, the earliest type of carbine used was called a "harquebus" (a word derived from the heavier infantry weapon, the arquebus). In the late 16th century and into the first decades of the following century the harquebusier was envisioned, like the similar and earlier petronel, as a support for more heavily armoured cavalry, demi-lancers or pistol-armed cuirassiers and reiters.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_2">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_3">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_4">
+			<Text />
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HARQUEBUSIER_CHAPTER_HISTORY_PARA_5">
 			<Text />
 		</Row>
 		<!-- New Units Text -->
@@ -338,6 +353,12 @@
 		</Row>
 		<Row Tag="LOC_UNIT_MOUNTED_CROSSBOW_DESCRIPTION">
 			<Text>Medieval era mounted ranged unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HARQUEBUSIER_NAME">
+			<Text>Harquebusier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HARQUEBUSIER_DESCRIPTION">
+			<Text>Fast-moving Renaissance era light cavalry unit.</Text>
 		</Row>
 		<!-- Text Changes -->
 		<Replace Tag="LOC_UNIT_ANTIAIR_GUN_NAME">
