@@ -3,8 +3,9 @@
   <Properties>
     <Name>Warfare Expanded Armored Assault</Name>
     <Description>Adds new Armored and Cavalry units to Warfare Expanded Complete Edition.</Description>
+    <Created>1588142162</Created>
     <Teaser>Warfare Expanded Armored Assault.</Teaser>
-    <Authors>Wolfdog (aka Hizkiyahu), KrumStrashni, siau2tie1, frontstrom(风云城关) and Zipprian</Authors>
+    <Authors>Wolfdog (aka Hizkiyahu)</Authors>
     <SpecialThanks>Deliverator, Laurana Kanan, Stlyker, Tolerant &amp; HAPPYWORLD</SpecialThanks>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </Properties>
@@ -22,7 +23,7 @@
       <Properties>
         <LoadOrder>9</LoadOrder>
       </Properties>
-      <File>Data/WE_Armored_Assault_Icons_Units.xml</File>
+      <File>Data/WE_Armored_Assault_Icons_Units.sql</File>
     </UpdateIcons>
     <UpdateText id="Text">
       <Properties>
@@ -36,7 +37,7 @@
     </UpdateText>
   </InGameActions>
   <Files>
-    <File>Data/WE_Armored_Assault_Icons_Units.xml</File>
+    <File>Data/WE_Armored_Assault_Icons_Units.sql</File>
     <File>Data/WE_Armored_Assault_Units.sql</File>
     <File>Text/de_DE/WE_Armored_Assault_Text_de_DE.xml</File>
     <File>Text/en_US/WE_Armored_Assault_Text.xml</File>
